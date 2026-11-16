@@ -1,0 +1,16 @@
+INSIDE THE TOKENIZER — Cheesestick Labs
+
+Extract the website ZIP, then open index.html.
+For hosting, upload ALL extracted files and the assets folder to your static host.
+
+Nine activity tabs. Independent work. No passwords.
+English/Spanish switch. Light/dark mode. Browser autosave.
+PDF/text download and Print / Save as PDF.
+Students must attach their downloaded work to your class assignment.
+No automatic submission is configured.
+
+The Open Tokenizer Playground button opens the real Hugging Face tool.
+Check it on a school device before class. Internet access is required for that tool.
+The worksheet does not install software or train a model.
+
+TEACH-FIRST.md is provided separately with the ten-minute introduction and pacing.
